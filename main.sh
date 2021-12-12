@@ -19,6 +19,10 @@ apt install python3.9
 apt install gcc
 apt install build-essential
 apt install gparted
+apt install python3-venv
+apt install p7zip-full
+apt install unrar
+
 
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 # install fancy console (oh my bash)
